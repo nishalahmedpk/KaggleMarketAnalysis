@@ -9,4 +9,4 @@ Key features include:
 
 We use Random Forest Classifier to predict customer responses. The dataset is analyzed using visualizations and model evaluation metrics (accuracy, confusion matrix, etc.).
 
-To run, install dependencies and execute `consumer_analysis.py`.
+To run, install dependencies and execute `consumer_analysis.py` or open the jupyter notebook file.
